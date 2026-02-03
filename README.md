@@ -9,21 +9,24 @@
 
 ## 👨‍💻 About Me
 
-I’m a cybersecurity student who learns best by **building real, functional projects**.
+I’m a Cybersecurity student who learns best by **building real, functional projects**.
 
-Whenever I pick up a new language or tool, my goal is to create something useful — not just small practice scripts, but projects I can use, refine, and expand over time. I enjoy understanding how systems work at core levels and applying that to build clean, secure solutions.
+Whenever I pick up a new language or tool, my goal is to create something applicable, like projects I can use, refine, and expand over time. I enjoy understanding how systems work at core levels and applying that to build clean, secure solutions.
 
 ---
 
-## ⚡️ GitHub Stats
+## 🛠️ Languages I Use
 
 <div align="center">
 
-![Jazib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jazib225&show_icons=true&theme=transparent)
-
-![Jazib's GitHub Streak](https://streak-stats.demolab.com?user=Jazib225&theme=transparent&border_radius=10)
-
-![Jazib's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazib225&layout=donut&theme=transparent&langs_count=8&hide=css&border_radius=10)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Shell"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
 
 </div>
 
